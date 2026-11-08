@@ -43,7 +43,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=arthurabreu&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true&icon_color=4285F4&text_color=99ccff&bg_color=0d1117&title_color=4285F4" alt="Arthur Abreu's GitHub Stats"/>
 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=arthurabreu&layout=compact&hide_border=true&title_color=4285F4&text_color=99ccff&bg_color=0d1117" alt="Arthur Abreu's Top Languages" />
+  <img width="41%" src="assets/top-langs.svg" alt="Arthur Abreu's Top Languages (public + private repos)" />
 </div>
 
 <br>
